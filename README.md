@@ -63,10 +63,12 @@ Or reboot the VM to apply the group changes.
 docker --version
 docker ps
 ```
-###Notes / Troubleshooting
+## Notes / Troubleshooting
 
 If Docker fails to pull images, check firewall or network settings.
 
 Ensure system time is correct to avoid TLS handshake errors.
 
 Keep your VM and Docker installation updated for compatibility.
+
+
